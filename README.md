@@ -1,12 +1,6 @@
-# This mod has temporarily been discontinued
+# Debug Mod Revamped
 
-The reason why I did this is I ran out of ideas and I want to take a break from programming.
-You can help by suggesting features or make a pull request. I'll continue this mod when I
-finish my break and get more ideas.
-
-# DebugMod
-
-This is a mod for Hacknet that allows the user to use various debug commands
+This is a fork of https://github.com/oxygencraft/DebugMod
 
 To report bugs or feature requests, open an issue in the issues section 
 
